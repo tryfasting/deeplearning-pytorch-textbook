@@ -9,10 +9,12 @@
 - 내가 이미 배운 내용은, pytorch로 실제 구현해봄으로서 다시 한 번 연습한다.
 - 새롭게 배운 내용은, 코드 연습과 함께 새롭게 알게 된 지식 또한 기록한다.
 
-- uv를 활용해 패키지, 가상환경을 관리한다.
+- uv를 활용 패키지, 가상환경을 관리
 
-- pyproject.toml 작성법을 공부한다. (dependencies 설정)
+- pyproject.toml 작성법 (dependencies 설정)
 
-- cuda를 설치하고, 그에 맞게 Pytorch 버전을 관리하여 설치한다.
+- cuda, Pytorch 버전 관리
+
+- nvitop(NVIDIA-GPU process viewer)
 
 
