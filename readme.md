@@ -17,4 +17,6 @@
 
 - nvitop(NVIDIA-GPU process viewer)
 
+- 인공 신경망 그림 그리기 (http://alexlenail.me/NN-SVG/index.html)
+
 
