@@ -1,2 +1,5 @@
 MNIST_data
 pyproject.toml
+.venv
+.python-version
+uv.lock
