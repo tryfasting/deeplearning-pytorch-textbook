@@ -3,3 +3,4 @@ pyproject.toml
 .venv
 .python-version
 uv.lock
+test.py
